@@ -1,3 +1,3 @@
-FROM hashar/webapp
+FROM hshar/webapp
 
 ADD ./index.html /var/www/html
