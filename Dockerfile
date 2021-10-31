@@ -1,3 +1,3 @@
-FROM vshar/webapp
+FROM hshar/webapp
 
 ADD ./index.html /var/www/html
